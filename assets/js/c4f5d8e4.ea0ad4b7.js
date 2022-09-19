@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkotstudios_github_io=self.webpackChunkotstudios_github_io||[]).push([[195],{2841:(t,e,u)=>{u.r(e),u.d(e,{default:()=>i});var s=u(7294),o=u(6775);function i(){return s.createElement(o.l_,{to:"/docs"})}}}]);
