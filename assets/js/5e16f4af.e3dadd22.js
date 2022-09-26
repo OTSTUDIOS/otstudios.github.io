@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkotstudios_github_io=self.webpackChunkotstudios_github_io||[]).push([[138],{146:i=>{i.exports=JSON.parse('{"title":"Skills","slug":"/category/skills","permalink":"/docs/category/skills","navigation":{"previous":{"title":"Config","permalink":"/docs/OT_recycler/config"},"next":{"title":"Config","permalink":"/docs/OT_skills/config"}}}')}}]);
