@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkotstudios_github_io=self.webpackChunkotstudios_github_io||[]).push([[652],{3258:e=>{e.exports=JSON.parse('{"title":"Recycler","slug":"/category/recycler","permalink":"/docs/category/recycler","navigation":{"previous":{"title":"Documentation","permalink":"/docs/"},"next":{"title":"Config","permalink":"/docs/OT_recycler/config"}}}')}}]);
