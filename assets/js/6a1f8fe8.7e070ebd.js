@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkotstudios_github_io=self.webpackChunkotstudios_github_io||[]).push([[376],{2242:e=>{e.exports=JSON.parse('{"title":"OT Lumberjack","description":"-","slug":"/category/lumberjack","permalink":"/docs/category/lumberjack","navigation":{"next":{"title":"Config","permalink":"/docs/lumberjack/config"}}}')}}]);
