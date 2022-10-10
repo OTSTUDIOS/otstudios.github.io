@@ -9,8 +9,9 @@ Config = {}
 
 Config.Framework = 'ESX' -- ESX | QBCORE 
 Config.saveInterval = 5 -- minutes between saves
-Config.useStrengthSkill = true
-Config.useDivingSkill = true
+Config.useStrengthSkillEffects = true
+Config.useStaminaSkillEffects = true
+Config.useDivingSkillEffects = true
 Config.shootingpracModels = {
     [`prop_range_target_01`] = true,
     [`prop_range_target_02`] = true,

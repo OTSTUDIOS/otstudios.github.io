@@ -9,6 +9,8 @@ Use this from other resources on server startup to register skills in to the sys
 ```lua
 -- data: table
     -- name: string
+    -- label: string
+    -- description: string
     -- multiplier: number
     -- maxlevel: number
     -- maxReward: number
@@ -18,7 +20,9 @@ exports.OT_skills:registerSkill(data)
 **Example:**
 ```lua
 exports.OT_skills:registerSkill({
-    name = 'testskill', 
+    name = 'testskill',
+    label = 'Test Skill',
+    description = 'This is a test'
     multiplier = 2.0, 
     maxlevel = 30, 
     maxReward = 40
