@@ -15,5 +15,5 @@ After this add 'OT_groupoutfits' underneath, ox_lib and fivem-appearance as well
 ### Dependencies
 
 - [ox_lib](https://github.com/overextended/ox_lib/)
-
+- [FiveM Appearance](https://github.com/pedr0fontoura/fivem-appearance)
 
