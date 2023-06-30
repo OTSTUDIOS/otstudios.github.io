@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkotstudios_github_io=self.webpackChunkotstudios_github_io||[]).push([[614],{3331:t=>{t.exports=JSON.parse('{"title":"OT Groupoutfits","description":" ","slug":"/category/group-outfits","permalink":"/docs/category/group-outfits","navigation":{"next":{"title":"Getting started","permalink":"/docs/groupoutfits/"}}}')}}]);
