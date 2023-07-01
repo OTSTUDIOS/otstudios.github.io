@@ -10,3 +10,11 @@ Get Players max oxygen capacity.
 ```lua
 exports.OT_skills:getMaxOxygen()
 ```
+
+Example:
+```lua
+local oxygen = exports.OT_skills:getMaxOxygen()
+print(oxygen)
+
+100
+```

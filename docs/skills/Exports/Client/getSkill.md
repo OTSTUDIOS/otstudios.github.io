@@ -7,6 +7,25 @@ sidebar_position: 2
 Returns table of data for specified skill.
 
 ```lua
--- skill: string
 exports.OT_skills:getSkill(skill)
 ```
+- skill: `string`
+    - Skill to get data for.
+
+**Example:**
+```lua
+local skill = exports.OT_skills:getSkill('strength')
+
+print(json.encode(skill, {indent=true}))
+--[[
+    {
+        "xp": 2000,
+        "level": 10,
+        "statlevel": 33.3,
+    }
+]]
+```
+- skill: `table`
+    - xp: `number`
+    - level: `number`
+    - statlevel: `number`

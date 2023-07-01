@@ -1,10 +1,7 @@
 ---
-title: Getting started
+title: Getting Started
 sidebar_position: 1
-slug: ./../
 ---
-
-## Installation
 
 We always recommend downloading the latest version from Keymaster.
 

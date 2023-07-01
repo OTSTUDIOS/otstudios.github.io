@@ -65,7 +65,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://otstudios.tebex.io',
+            href: 'https://store.otstudios.net',
             label: 'Tebex',
             position: 'left',
           },

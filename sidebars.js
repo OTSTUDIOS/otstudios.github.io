@@ -31,17 +31,17 @@ const sidebars = {
     {
       type: 'link',
       label: 'Lumberjack',
-      href: '/docs/lumberjack',
+      href: '/docs/category/lumberjack',
     },
     {
       type: 'link',
       label: 'Recycler',
-      href: '/docs/recycler',
+      href: '/docs/category/recycler',
     },
     {
       type: 'link',
       label: 'Skills',
-      href: '/docs/skills',
+      href: '/docs/category/skills',
     },
   ],
   groupoutfits: [
@@ -56,7 +56,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'OT Groupoutfits',
-        description: '-',
+        description: ' ',
       },
       items: [
         {
@@ -78,7 +78,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'OT Lumberjack',
-        description: '-',
+        description: ' ',
       },
       items: [
         {
@@ -100,7 +100,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'OT Recycler',
-        description: '-',
+        description: ' ',
       },
       items: [
         {
@@ -122,7 +122,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'OT Skills',
-        description: '-',
+        description: ' ',
       },
       items: [
         {
